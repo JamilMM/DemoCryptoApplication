@@ -36,8 +36,14 @@ Hilt for dependency injection.
 
 MVVM Architecture (View - DataBinding - ViewModel - Model)
 
+![mvvm](https://user-images.githubusercontent.com/48213736/134569651-23b58929-c549-42dc-8b5e-528c999428d5.png)
+
+
 
 Repository pattern
+
 Retrofit2 & OkHttp3 - construct the REST APIs and paging network data.
+
+
 Material-Components - Material design components like ripple animation, cardView.
 Custom Views
