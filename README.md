@@ -10,3 +10,27 @@ This project is for focusing especially on the new library Hilt of implementing 
 
 
 
+
+
+
+Tech stack & Open-source libraries
+
+Jetpack Compose - Modern UI Native Android Toolkit
+
+
+Kotlin based, Coroutines + Flow for asynchronous.
+
+
+Hilt for dependency injection.
+
+JetPack
+Lifecycle - dispose of observing data when lifecycle state changes.
+ViewModel - UI related data holder, lifecycle aware.
+Architecture
+
+MVVM Architecture (View - DataBinding - ViewModel - Model)
+
+Repository pattern
+Retrofit2 & OkHttp3 - construct the REST APIs and paging network data.
+Material-Components - Material design components like ripple animation, cardView.
+Custom Views
