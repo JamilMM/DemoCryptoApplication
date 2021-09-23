@@ -46,5 +46,8 @@ Retrofit2 & OkHttp3 - construct the REST APIs and paging network data.
 
 ![1_wvpJBw4KeZKWp0YvcLZwlg](https://user-images.githubusercontent.com/48213736/134569879-9886da58-0b28-4081-9c7f-bd9eb7916b72.jpeg)
 
+
+Coin Paprika API - An open source cryptocurrency platform
+
 Material-Components - Material design components like ripple animation, cardView.
 Custom Views
