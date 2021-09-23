@@ -16,6 +16,9 @@ This project is for focusing especially on the new library Hilt of implementing 
 Tech stack & Open-source libraries
 
 Jetpack Compose - Modern UI Native Android Toolkit
+Lifecycle - dispose of observing data when lifecycle state changes.
+ViewModel - UI related data holder, lifecycle aware.
+Architecture
 
 ![Android-Compose-1 0-header-v2](https://user-images.githubusercontent.com/48213736/134568608-020fe69a-3991-4e17-83a6-e26cad319b3f.png)
 
@@ -28,12 +31,11 @@ Kotlin based, Coroutines + Flow for asynchronous.
 
 Hilt for dependency injection.
 
-JetPack
-Lifecycle - dispose of observing data when lifecycle state changes.
-ViewModel - UI related data holder, lifecycle aware.
-Architecture
+![1_MA45ld5TZbYFlpowpVjimg](https://user-images.githubusercontent.com/48213736/134569224-27cddef3-a691-46ae-a8e4-acd67de4b84d.png)
+
 
 MVVM Architecture (View - DataBinding - ViewModel - Model)
+
 
 Repository pattern
 Retrofit2 & OkHttp3 - construct the REST APIs and paging network data.
