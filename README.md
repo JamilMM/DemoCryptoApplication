@@ -1,5 +1,5 @@
 # DemoCryptoApplication
-A Simple Demo Cryptocurrency Android App With Jetpack Compose and Coin Paprika API 
+A Simple Demo Cryptocurrency Clean Architecture Android App With Jetpack Compose and Coin Paprika API (MVVM, Uses Cases, Compose)
 
 
 This is a small demo application based on modern Android application tech-stacks and MVVM architecture.
